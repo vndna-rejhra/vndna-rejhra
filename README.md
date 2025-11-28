@@ -1,7 +1,7 @@
 ## <h2 align="center">Hi, I'm Vandna Rejhra 👋</h2>
 
 <div align="center">
-  <p>I'm a passionate Computer Science student currently in my 2nd year (3rd semester).</p>
+  <p>I'm a passionate Computer Science student currently in my  3rd year (5th semester).</p>
   <p>I enjoy learning new technologies, building projects, and improving my programming skills day by day.</p>
   <p>Currently exploring Python, Java, SQL, Web Development, Finite Automata and Operating Systems concepts.</p>
   <p>I love to create, learn, and share my journey in tech.</p>
