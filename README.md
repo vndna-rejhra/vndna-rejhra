@@ -1,63 +1,85 @@
-## <h2 align="center">Hi, I'm Vandna Rejhra 👋</h2>
+<!-- Updated Aesthetic GitHub README for Vandna Rejhra -->
+
+<h1 align="center">✨ Vandna Rejhra ✨<br>Computer Science Student | Developer | Learner</h1>
+
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm **Vandna Rejhra**, a passionate **Computer Science student (5th Semester)** who loves to learn, build, and explore new technologies. From Python to Java, from SQL to Web Development — I enjoy creating things that help me grow as a developer.
+
+💡 *Learning something new every day and leveling up my skills.*
+
+---
+
+## 📚 Currently Exploring
+
+- 🐍 Python
+- ☕ Java
+- 🧮 SQL
+- 🕸 Web Development
+- 🤖 Finite Automata
+- 🖥 Operating Systems
+
+---
+
+## 🌟 My GitHub Activity
 
 <div align="center">
-  <p>I'm a passionate Computer Science student currently in my  3rd year (5th semester).</p>
-  <p>I enjoy learning new technologies, building projects, and improving my programming skills day by day.</p>
-  <p>Currently exploring Python, Java, SQL, Web Development, Finite Automata and Operating Systems concepts.</p>
-  <p>I love to create, learn, and share my journey in tech.</p>
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://github.com/vndna-rejhra">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vndna-rejhra&theme=tokyonight" width="100%" />
+</a>
+
+<a href="https://github.com/vndna-rejhra">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vndna-rejhra&theme=tokyonight" width="49%" />
+</a>
+<a href="https://github.com/vndna-rejhra">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vndna-rejhra&theme=tokyonight" width="49%" />
+</a>
+
+<a href="https://github.com/vndna-rejhra">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vndna-rejhra&theme=tokyonight&hide_border=false" width="100%" />
+</a>
+
+<a href="https://github.com/vndna-rejhra">
+  <img src="https://github-readme-stats.vercel.app/api?username=vndna-rejhra&show_icons=true&theme=tokyonight&hide_border=false" width="49%" />
+</a>
+<a href="https://github.com/vndna-rejhra">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vndna-rejhra&layout=compact&theme=tokyonight&hide_border=false" width="49%" />
+</a>
+
 </div>
 
 ---
 
-## <h2 align="center">My Activities</h2>
-
+## 🎨 Tech Stack
 <div align="center">
 
-  <a href="https://github.com/vndna-rejhra">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=vndna-rejhra&data=followers,repositories,commits&theme=radical" />
-  </a>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,bootstrap,react,sql,mysql,git,github,vscode" />
 
-  <a href="https://github.com/vndna-rejhra">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vndna-rejhra&theme=radical&langs_count=10" height="250px" width="49%" />
-  </a>
-
-  <a href="https://github.com/vndna-rejhra">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vndna-rejhra&theme=radical&langs_count=10" height="250px" width="49%" />
-  </a>
-
-  <a href="https://github.com/vndna-rejhra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vndna-rejhra&theme=radical&layout=compact&hide_border=true" height="250px" width="49%" />
-  </a>
-
-  <a href="https://github.com/vndna-rejhra">
-    <img src="https://github-readme-stats.vercel.app/api?username=vndna-rejhra&theme=radical&show_icons=true&hide_border=true" height="250px" width="49%" />
-  </a>
-
-  <a href="https://github.com/vndna-rejhra">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vndna-rejhra&theme=radical&hide_border=true" height="250px" width="49%" />
-  </a>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ---
 
-## <h2 align="center">Connect With Me</h2>
-
+## 🔗 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/vndna-rejhra" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" style="margin: 0 10px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
-
   <a href="mailto:vandnarejhra@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" style="margin: 0 10px;"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
 </div>
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
+
+<p align="center">💙 *Thanks for visiting my GitHub profile!* 💙</p>
