@@ -32,28 +32,26 @@ I'm **Vandna Rejhra**, a passionate **Computer Science student (5th Semester)** 
 <div align="center">
 
 <a href="https://github.com/vndna-rejhra">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vndna-rejhra&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vndna-rejhra&theme=softpink" width="100%" />
 </a>
 
 <a href="https://github.com/vndna-rejhra">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vndna-rejhra&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vndna-rejhra&theme=softpink" width="49%" />
 </a>
 <a href="https://github.com/vndna-rejhra">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vndna-rejhra&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vndna-rejhra&theme=softpink" width="49%" />
 </a>
 
 <a href="https://github.com/vndna-rejhra">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vndna-rejhra&theme=tokyonight&hide_border=false" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vndna-rejhra&theme=softpink&hide_border=false" width="100%" />
 </a>
 
 <a href="https://github.com/vndna-rejhra">
-  <img src="https://github-readme-stats.vercel.app/api?username=vndna-rejhra&show_icons=true&theme=tokyonight&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vndna-rejhra&show_icons=true&theme=softpink&hide_border=false" width="49%" />
 </a>
 <a href="https://github.com/vndna-rejhra">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vndna-rejhra&layout=compact&theme=tokyonight&hide_border=false" width="49%" />
-</a>
-
-</div>
+  <img src="https://img.shields.io/badge/Top%20Language-HTML-orange?logo=html5" width="220" />
+</a></div>
 
 ---
 
